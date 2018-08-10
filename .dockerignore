@@ -1,0 +1,6 @@
+logs/
+deep_storage/
+data/
+docker-compose.yml
+README.md
+wikiticker-*
